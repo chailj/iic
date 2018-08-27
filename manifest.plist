@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.iicon.iicpay</string>
+				<string>com.furu.--PRODUCT-NAME-rfc1034identifier-</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
